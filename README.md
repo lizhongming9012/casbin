@@ -1,4 +1,4 @@
-# Go Gin Web include casbin
+# Go Gin Web include Casbin
 
 include gin; jwt; casbin; gorm
 
