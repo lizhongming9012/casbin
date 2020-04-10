@@ -39,7 +39,7 @@ var APIDATA = {
     }]
   }, {
     "api_summary" : {
-      "title" : "为用户添加角色",
+      "title" : "创建角色",
       "method" : "POST",
       "path" : "/api/v1/role/addrole"
     },
