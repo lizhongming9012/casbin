@@ -40,7 +40,7 @@ Project information and existing API
 [info] start http server listening :8880
 
 ```
-##Restful doc
+## Restful doc
 
 + 打开浏览器，在如下 url 中查看 API doc
 ```
